@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 90vh;
+}
+
+#header {
+  width: 100vw;
+}
+
+#header p {
+  display: inline;
+  padding: 0px 20px;
+}
+
+h1 {
+  display: inline;
+  text-align: left;
+  padding-left: 10px;
+}
+
+
+#inputButtons { 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+}
+
+#game, #result {
+  text-align: center;
+  width: 100vw;
+  margin-top: 1em;
+}
+
+
+
